@@ -1,0 +1,46 @@
+/*
+Theme Name: th-child
+Template: twentythirteen
+*/
+@import url('../twentythirteen/style.css');
+
+/*
+use@
+    page-archive_link.php
+    searchform-job_post.php
+*/
+.frame {
+    border: solid 1px #000;
+    padding: 10px;
+    margin: 5px;
+}
+
+/*
+use@
+    page-archive_link.php
+    searchform-job_post.php
+*/
+.frame h3 {
+    padding: 10px;
+}
+
+/*
+use@
+    page-archive_link.php
+*/
+#menu-menu-job-bland li {
+    float: left;
+    padding: 5px;
+}
+
+/*
+use@
+    page-archive_link.php
+*/
+.sub-menu {
+    padding-left: 1em;
+}
+
+#checkbox-job-blands label {
+    margin: 10px;
+}
